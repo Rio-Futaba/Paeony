@@ -1,0 +1,6 @@
+[submodule "3rdpart/spdlog"]
+	path = 3rdpart/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "3rdpart/yyjson"]
+	path = 3rdpart/yyjson
+	url = https://github.com/ibireme/yyjson.git
