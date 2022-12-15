@@ -6,7 +6,7 @@
 * 双栈接入
 * 支持缓存
 * 支持多种客户端白名单
-* SS支持不同种子free模式，包括2xfree,free,50%free,30%free
+* 支持不同种子free模式，包括2xfree,free,50%free,30%free
 ## 编译时依赖
 
 ## 安装
