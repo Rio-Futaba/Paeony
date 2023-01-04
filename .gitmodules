@@ -4,6 +4,3 @@
 [submodule "3rdpart/yyjson"]
 	path = 3rdpart/yyjson
 	url = https://github.com/ibireme/yyjson.git
-[submodule "3rdpart/libevent"]
-	path = 3rdpart/libevent
-	url = https://github.com/libevent/libevent.git
